@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- <div id="copyright"> &copy; @2015. All rights reserved </div>
+ <div id="copyright"> &copy; @2016. All rights reserved </div>
 </body>
 </html>
