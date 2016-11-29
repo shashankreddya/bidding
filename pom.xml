@@ -97,7 +97,7 @@
     </properties>
 
 	<build>
-		<finalName>RESTfulExample</finalName>
+		<finalName>bidding</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
